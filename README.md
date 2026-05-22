@@ -30,7 +30,7 @@
 
 ## About the Project
 
-This portal replaces paper-based CDS (Community Development Service) attendance sheets with a real-time, GPS-verified digital system. It was originally built for **NYSC Lagos Island LGA** but is structured to be forked and deployed for **any LGA across Nigeria** by simply updating the `.env` file.
+This portal replaces paper-based CDS (Community Development Service) attendance sheets with a real-time, GPS-verified digital system. It was originally built for **NYSC Lagos Island LGA** but is structured to be forked and deployed for **any LGA across Nigeria** by simply updating the `.env` file and some parts of the code.
 
 ### The Problem It Solves
 
