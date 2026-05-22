@@ -34,17 +34,17 @@ This portal replaces paper-based CDS (Community Development Service) attendance 
 
 ### The Problem It Solves
 
-- Corps members signing attendance from home or abroad ("ghost attendance")
-- LGIs manually computing scores from paper sheets
+- Corps members signing attendance without getting to the local government ("ghost attendance")
+- LGIs manually manually screening attendance from paper sheets
 - No audit trail for attendance disputes
-- Clearance bottlenecks at end of service year
+- Final Clearance bottlenecks at end of service year
 
 ### The Solution
 
 - GPS geofence enforces physical presence at the CDS venue
 - Device binding prevents credential sharing
 - Real-time Firestore snapshots give LGIs instant visibility
-- All records are immutable and timestamped on Firebase servers
+- All records are immutable and timestamped on Firebase servers.
 
 ---
 
