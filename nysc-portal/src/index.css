@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* tailwindcss-animate provides the animate-in / slide-in-from-* classes used throughout.
+   Install: npm install tailwindcss-animate  (already in package.json) */
